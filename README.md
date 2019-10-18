@@ -18,7 +18,7 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 
 4. Algoritmos de empate de cadenas. <br>
 4.1 Algoritmo ingenuo. *<br>
-4.2 Algoritmo con Autómata Finito.*<br>
+4.2 Algoritmo con Autómata Finito. *<br>
 4.3 Algoritmo de Knuth-Morris-Pratt. *<br>
 
 

@@ -4,7 +4,13 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 1.1 Multiplicación entera (py). <br>
 1.2 Multiplicación de Gauss (py). <br>
 1.3 Ordenamiento por mezcla (py). <br>
-1.4 La Transformada rápida de Fourier. *
+1.4 La Transformada rápida de Fourier. *<br><br>
+
+2. Programación dinámica. *<br>
+2.1 Multiplicación de una secuencia de matrices. *<br>
+2.2 Cálculo de la sub-secuencia común más larga. *<br>
+2.3 El programa de la mochila entera <br>
+
 
 <br>Extras: <br>
 1. Búsqueda secuencial - Búsqueda binaria - Árbol de búsqueda binaria (C).

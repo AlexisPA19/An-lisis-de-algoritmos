@@ -24,3 +24,5 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 
 <br>Extras: <br>
 1. Búsqueda secuencial - Búsqueda binaria - Árbol de búsqueda binaria (C).
+
+<br>(C) *Lenguaje C.* <br> (py) *Lenguaje Python.* <br> (jv) *Lenguaje Java.* 

@@ -3,8 +3,9 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 1. Divide y venceras. <br>
 1.1 Multiplicación entera (py). <br>
 1.2 Multiplicación de Gauss (py). <br>
-1.3 Ordenamiento por mezcla (py). <br>
-1.4 La Transformada rápida de Fourier. *<br><br>
+1.3 Ordenamiento por mezcla (Merge Sort) (py). <br>
+1.4 Ordenamiento rápido (Quick Sort) (py). <br>
+1.5 La Transformada rápida de Fourier (FFT). *<br><br>
 
 2. Programación dinámica. *<br>
 2.1 Multiplicación de una secuencia de matrices. *<br>

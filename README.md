@@ -6,6 +6,7 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 1.3 Ordenamiento por mezcla (Merge Sort) (py). <br>
 1.4 Ordenamiento rápido (Quick Sort) (py). <br>
 1.5 La Transformada rápida de Fourier (FFT) (py).<br><br>
+1.6 Multiplicación de matrices (Strassen) (py). <br><br>
 
 2. Programación dinámica. *<br>
 2.1 Multiplicación de una secuencia de matrices. *<br>

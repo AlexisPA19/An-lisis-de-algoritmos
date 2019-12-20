@@ -9,8 +9,8 @@ Implementación de diferentes algoritmos con base en estrategias de diseño.
 1.6 Multiplicación de matrices (Strassen) (py). <br><br>
 
 2. Programación dinámica. *<br>
-2.1 Multiplicación de una secuencia de matrices. (jv)br>
-2.2 Cálculo de la sub-secuencia común más larga. *<br>
+2.1 Multiplicación de una secuencia de matrices (jv).<br>
+2.2 Cálculo de la sub-secuencia común más larga (py).<br>
 2.3 El programa de la mochila entera. <br><br>
 
 3. Algoritmos ávidos. <br>

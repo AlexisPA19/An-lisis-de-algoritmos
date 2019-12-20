@@ -20,7 +20,7 @@ def quickSort(lista):
         list_left = quickSort(less)
         list_right = quickSort(greater)
 
-        list_final = list_left + [int(pivot)] + list_right
+        list_final = list_left + [pivot] + list_right
 
         return list_final
 
